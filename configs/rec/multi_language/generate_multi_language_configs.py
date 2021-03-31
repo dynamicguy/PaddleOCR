@@ -19,6 +19,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 support_list = {
+    'bn': 'Bengali',
     'it': 'italian',
     'es': 'spanish',
     'pt': 'portuguese',
